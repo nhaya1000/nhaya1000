@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">Hayato (Office HxN) — Frontend Engineer</title>
+  <style>
+    .sans { font-family: system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+  </style>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#3d444d" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.35" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+  </defs>
+  <rect width="1200" height="300" fill="#0d1117"/>
+  <rect width="1200" height="300" fill="url(#grid)" mask="url(#m)" opacity="0.6"/>
+  <g>
+    <rect x="80" y="64" width="32" height="4" fill="#95eb00"/>
+    <rect x="112" y="64" width="32" height="4" fill="#f66754"/>
+    <rect x="144" y="64" width="32" height="4" fill="#268aff"/>
+  </g>
+  <text class="sans" x="80" y="110" font-size="24" font-weight="500" letter-spacing="1" fill="#9198a1">Office HxN</text>
+  <text class="sans" x="74" y="208" font-size="112" font-weight="700" letter-spacing="-3" fill="#ededed">Hayato</text>
+  <text class="sans" x="80" y="256" font-size="40" font-weight="400" fill="#ededed">Frontend Engineer</text>
+  <text class="mono" x="1120" y="256" font-size="20" text-anchor="end" fill="#9198a1">TypeScript · React · Next.js</text>
+</svg>
