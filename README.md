@@ -11,9 +11,9 @@ I'm a freelance frontend engineer based in Japan, building websites and web appl
 ## Tech Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,js,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,js,css&theme=light">
-  <img alt="TypeScript, React, Next.js, JavaScript, CSS" src="https://skillicons.dev/icons?i=ts,react,nextjs,js,css&theme=dark" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cjs%2Ccss&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cjs%2Ccss&theme=light">
+  <img alt="TypeScript, React, Next.js, JavaScript, CSS" src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cjs%2Ccss&theme=dark" height="48">
 </picture>
 
 ## Works
@@ -48,9 +48,9 @@ Hayato（Office HxN）
 ## 技術スタック
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,js,css&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,js,css&theme=light">
-  <img alt="TypeScript、React、Next.js、JavaScript、CSS" src="https://skillicons.dev/icons?i=ts,react,nextjs,js,css&theme=dark" height="48">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cjs%2Ccss&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cjs%2Ccss&theme=light">
+  <img alt="TypeScript、React、Next.js、JavaScript、CSS" src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cjs%2Ccss&theme=dark" height="48">
 </picture>
 
 ## 制作物
